@@ -12,7 +12,7 @@ Game/Dawn of the Chikugo River/Build/
 *.csproj
 
 #Libraryフォルダ無視
-Game/Dawn of the Chikugo River/Library/
+/Game/Dawn of the Chikugo River/Library/
 
 #Tempフォルダ無視
 Game/Dawn of the Chikugo River/Temp
