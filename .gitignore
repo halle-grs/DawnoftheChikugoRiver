@@ -1,8 +1,8 @@
 #objフォルダ無視
-Game/Dawn of the Chikugo River/obj/
+/Game/Dawn of the Chikugo River/obj/
 
 #Buildフォルダ無視
-Game/Dawn of the Chikugo River/Build/
+/Game/Dawn of the Chikugo River/Build/
 
 #.vsフォルダ無視
 .vs/
@@ -15,7 +15,7 @@ Game/Dawn of the Chikugo River/Build/
 /Game/Dawn of the Chikugo River/Library/
 
 #Tempフォルダ無視
-Game/Dawn of the Chikugo River/Temp
+/Game/Dawn of the Chikugo River/Temp
   
 #パッケージのバージョン情報を無視
-Game/Dawn of the Chikugo River/Packages/manifest.json
+/Game/Dawn of the Chikugo River/Packages/manifest.json
